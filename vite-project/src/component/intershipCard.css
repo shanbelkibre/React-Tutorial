@@ -1,0 +1,39 @@
+.internship-card {
+  max-width: 400px;
+  padding: 20px;
+  margin: 30px auto;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.internship-card h2 {
+  color: #1e293b;
+  margin-bottom: 12px;
+}
+
+.internship-card h3 {
+  color: #2563eb;
+  margin-bottom: 10px;
+}
+
+.internship-card p {
+  color: #64748b;
+  margin-bottom: 8px;
+}
+
+.internship-card button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 12px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.internship-card button:hover {
+  background-color: #1d4ed8;
+}
