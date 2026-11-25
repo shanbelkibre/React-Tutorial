@@ -1,8 +1,10 @@
+import "./navBar.css";
+
 function NavBar() {
   return (
     <nav className="navbar">
       <h3>Internship Portal</h3>
-      <ul>
+      <ul className="no-bullets">
         <li>Home</li>
         <li>About</li>
         <li>Contact</li>
