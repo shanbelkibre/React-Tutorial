@@ -42,3 +42,7 @@ export default function TemperatureConverter() {
     </div>
   );
 }
+
+
+// Now both the input and the verdict component can access and respond to the same temperature value.
+
